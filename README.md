@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://manofmany.com/wp-content/uploads/2021/07/Working-From-Home-Memes-1.jpg"><img src="https://badge.mediaplus.ma/colorfulwaves/faksouss?1337Badge=off" alt="faksouss's 42 stats" /></a>
 </p>
-<body align="center">
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/JAGUAR#6324) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@JAGUAR_326) 
 
@@ -29,6 +29,6 @@
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@JaguarKs) 
-</body>
+
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
