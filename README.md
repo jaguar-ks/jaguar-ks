@@ -82,7 +82,7 @@
     <img src="./Certification_page-0002.jpg" width="520" height="400" alt="certif c++"  />
   </a>
   <a href="https://www.codingame.com/certification/i4dEPDlfvjRLhWbLYQW_tA" target="_blank">
-    <img src="Screenshot 2024-05-11 020528.jpg" width="520" height="400" alt="certif phython"  />
+    <img src="python_certif.png" width="520" height="400" alt="certif phython"  />
   </a>
 </div>
 <!--[![certif](./Certification_page-0001.jpg)](https://www.codingame.com/profile/d7fe29796b0e02d40d69fa8ca540f3916410215)
