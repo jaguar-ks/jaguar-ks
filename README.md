@@ -79,7 +79,10 @@
     <img src="./Certification_page-0001.jpg" width="520" height="400" alt="certif C"  />
   </a>
   <a href="https://www.codingame.com/certification/ZXOiXObI1mY3CF5Jx0suxg" target="_blank">
-    <img src="./Certification_page-0002.jpg" width="520" height="400" alt="twitter logo"  />
+    <img src="./Certification_page-0002.jpg" width="520" height="400" alt="certif c++"  />
+  </a>
+  <a href="https://www.codingame.com/certification/i4dEPDlfvjRLhWbLYQW_tA" target="_blank">
+    <img src="Screenshot 2024-05-11 020528.jpg" width="520" height="400" alt="certif phython"  />
   </a>
 </div>
 <!--[![certif](./Certification_page-0001.jpg)](https://www.codingame.com/profile/d7fe29796b0e02d40d69fa8ca540f3916410215)
