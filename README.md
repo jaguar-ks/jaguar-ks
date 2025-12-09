@@ -64,6 +64,12 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" height="40" alt="elasticsearch logo" />
 </div>
+###
+
+# ✍️ Random Dev Quote
+<div align="centre">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical"/>
+</div>
 
 ###
 # Where to reach me:
@@ -80,6 +86,7 @@
 </div>
 
 ###
+
 <!--
 <div align="right">
   <a href="https://open.spotify.com/user/31b2qnvguirr4osrn3bfnoiu554i">
@@ -89,11 +96,6 @@
 -->
 ###
 
-
-# ✍️ Random Dev Quote
-<div align="centre">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical"/>
-</div>
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical) -->
 
 ---
