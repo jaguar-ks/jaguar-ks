@@ -90,8 +90,11 @@
 ###
 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+# ✍️ Random Dev Quote
+<div align="centre">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical"/>
+</div>
+<!-- ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical) -->
 
 ---
 
